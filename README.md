@@ -2,12 +2,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iansantana00&count_private=true&show_icons=true&theme=algolia&hide=prs,contribs)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iansantana00&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iansantana00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Programming Language
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
