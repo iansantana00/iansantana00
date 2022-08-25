@@ -1,10 +1,10 @@
 ### WELCOME / BEM-VINDO!
 <h1 align="center">Olá 👋, sou Ian Santana</h1>
-<h3 align="center">Um desenvolvedor fullstack do Brasil</h3>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iansantana00&count_private=true&show_icons=true&theme=default&hide=prs,contribs)
 
-- 📫 Como entrar em contato comigo **iansantanareis10@gmail. com**
+- 📫 Como entrar em contato comigo **iansantanareis10@gmail.com**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iansantana00&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
